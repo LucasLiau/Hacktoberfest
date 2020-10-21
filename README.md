@@ -1,2 +1,2 @@
 # Hacktoberfest- Entry
-idk
+Hacktoberfest thingy
